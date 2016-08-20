@@ -9,3 +9,5 @@ The package contains anonymised Bay Area bike share *trips* data for the year 20
 | *batrips*     | All bike share trips for the year 2014 (dim: 326339 * 11)           |
 | *baweather*   | Weather information for every day of 2014 for various zip codes     |
 | *bastations*  | Location, installation dates and dock counts etc. for all stations  |
+
+Thanks to http://www.bayareabikeshare.com/open-data for permitting this dataset to be released under CC0 license.
