@@ -1,6 +1,6 @@
 ## bikeshare14
 
-https://travis-ci.org/arunsrinivasan/bikeshare14.svg?branch=master
+[![Linux/Mac](https://travis-ci.org/arunsrinivasan/bikeshare14.svg?branch=master)](https://travis-ci.org/arunsrinivasan/bikeshare14.svg?branch=master)
 
 The package contains anonymised Bay Area bike share *trips* data for the year 2014. It also contains additional metdata on *stations* and *weather*. The three datasets available from this package include:
 
