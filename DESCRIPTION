@@ -1,0 +1,16 @@
+Package: bikeshare14
+Title: Bay Area Bike Share Trips in 2014
+Version: 0.1.0
+Authors@R: c(
+    person("Arunkumar", "Srinivasan", , "arunkumar.sriniv@gmail.com", c("aut", "cre"))
+    )
+Maintainer: Arunkumar Srinivasan <arunkumar.sriniv@gmail.com>
+Description: Anonymised Bay Area bike share's trip data for the year 2014. 
+    Also contains additional metadata on stations and weather.
+License: CC0
+LazyData: true
+Depends: R (>= 2.10)
+Suggests: data.table
+URL: http://github.com/arunsrinivasan/bikeshare13
+BugReports: http://github.com/arunsrinivasan/bikeshare13
+NeedsCompilation: no
