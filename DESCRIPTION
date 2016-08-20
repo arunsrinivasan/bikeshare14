@@ -5,7 +5,7 @@ Authors@R: c(
     person("Arunkumar", "Srinivasan", email="arunkumar.sriniv@gmail.com", role=c("aut", "cre"))
     )
 Maintainer: Arunkumar Srinivasan <arunkumar.sriniv@gmail.com>
-Description: Anonymised Bay Area bike share's trip data for the year 2014. 
+Description: Anonymised Bay Area bike share trip data for the year 2014. 
     Also contains additional metadata on stations and weather.
 License: CC0
 LazyData: true
