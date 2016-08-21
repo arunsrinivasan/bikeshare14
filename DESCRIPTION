@@ -1,6 +1,6 @@
 Package: bikeshare14
 Title: Bay Area Bike Share Trips in 2014
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
     person("Arunkumar", "Srinivasan", email="arunkumar.sriniv@gmail.com", role=c("aut", "cre"))
     )
