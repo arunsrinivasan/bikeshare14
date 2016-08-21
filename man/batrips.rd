@@ -12,7 +12,7 @@
 
 \tabular{rllll}{
     integer   \tab - \tab trip_id           \tab - \tab unique id associated with each trip\cr
-    integer   \tab - \tab duration          \tab - \tab duration of the trip (in minutes)\cr
+    integer   \tab - \tab duration          \tab - \tab duration of the trip (in seconds)\cr
     POSIXct   \tab - \tab start_date        \tab - \tab start date including time\cr
     character \tab - \tab start_station     \tab - \tab station where trip started\cr
     integer   \tab - \tab start_terminal    \tab - \tab terminal id of station where trip started\cr
