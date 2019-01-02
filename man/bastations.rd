@@ -21,6 +21,6 @@
   }
 }
 \source{
-Bay Area Bike Share website: \href{http://www.bayareabikeshare.com/open-data}{http://www.bayareabikeshare.com/open-data}
+Old Bay Area Bike Share website: http://www.bayareabikeshare.com/open-data, New website with data from 2017 on: https://www.fordgobike.com/system-data
 }
 \keyword{datasets}
