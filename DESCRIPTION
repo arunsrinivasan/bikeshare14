@@ -14,3 +14,4 @@ Suggests: data.table
 URL: http://github.com/arunsrinivasan/bikeshare14
 BugReports: http://github.com/arunsrinivasan/bikeshare14/issues
 NeedsCompilation: no
+LazyDataCompression: xz
