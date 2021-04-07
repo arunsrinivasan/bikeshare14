@@ -11,7 +11,7 @@ Description: Anonymised Bay Area bike share trip data for the year 2014.
 License: CC0
 LazyData: true
 Suggests: data.table
-URL: http://github.com/arunsrinivasan/bikeshare14
-BugReports: http://github.com/arunsrinivasan/bikeshare14/issues
+URL: https://github.com/arunsrinivasan/bikeshare14
+BugReports: https://github.com/arunsrinivasan/bikeshare14/issues
 NeedsCompilation: no
 LazyDataCompression: xz
