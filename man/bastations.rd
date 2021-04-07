@@ -21,6 +21,6 @@
   }
 }
 \source{
-Old Bay Area Bike Share website: http://www.bayareabikeshare.com/open-data, New website with data from 2017 on: https://www.fordgobike.com/system-data
+Data from 2017 on: https://s3.amazonaws.com/baywheels-data/index.html (Please see NEWS.md for more info on project page).
 }
 \keyword{datasets}
